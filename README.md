@@ -13,7 +13,7 @@ By **saurabh**
 
 -  What I Gained from this Project 
 
-   - First and fourmost Thing **flexbox** in Detail.
+   - First and fourmost Thing **flexbox** in depth.
    - I also learned background Shadow and beside navbar.
 
 
@@ -22,3 +22,4 @@ ___
 ## Time taken to finish this project
 
 -   Approximately **3:5 hour** taken to complete this one.
+-   Nearby **4 hour** to make it responsive.
