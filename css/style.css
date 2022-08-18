@@ -393,9 +393,8 @@ li {
     margin-left: 0.9rem;
   }
 
-  .team_intro,
-  .contribute {
-    margin-left: 2rem;
+  .team_intro
+   {
     flex-wrap: wrap;
   }
 
